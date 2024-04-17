@@ -7,7 +7,10 @@ Integration with DialoGPT for conversational capabilities
 
 ## ChatBot
 
-![App Screenshot](images/img.png)
+![App Screenshot](images/img1.png)
+
+
+![App Screenshot](images/img2.png)
 
 ## Acknowledgments
 Streamlit for the user-friendly app framework
